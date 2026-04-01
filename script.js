@@ -39,10 +39,10 @@ const menuData = [
 const reviewData = [
   { id: 1, image: "images/review-1.jpg", alt: "회브리데이 리뷰 이미지 1" },
   { id: 2, image: "images/review-2.jpg", alt: "회브리데이 리뷰 이미지 2" },
-  { id: 3, image: "images/review-3.jpg", alt: "회브리데이 리뷰 이미지 3" },
-  { id: 4, image: "images/review-4.jpg", alt: "회브리데이 리뷰 이미지 4" },
-  { id: 5, image: "images/review-5.jpg", alt: "회브리데이 리뷰 이미지 5" },
-  { id: 6, image: "images/review-6.jpg", alt: "회브리데이 리뷰 이미지 6" },
+  { id: 3, image: "images/review-3.JPG", alt: "회브리데이 리뷰 이미지 3" },
+  { id: 4, image: "images/review-4.JPG", alt: "회브리데이 리뷰 이미지 4" },
+  { id: 5, image: "images/review-5.JPG", alt: "회브리데이 리뷰 이미지 5" },
+  { id: 6, image: "images/review-6.JPG", alt: "회브리데이 리뷰 이미지 6" },
 ];
 
 function goToBaemin() {
